@@ -1,0 +1,4 @@
+name: GthubIntegTest
+version: '${version}'
+main: plugin.gthubintegtest.GthubIntegTest
+api-version: '1.20'
